@@ -1,0 +1,2586 @@
+A634
+PAVIA
+Barbianello
+A690
+PAVIA
+Bascape'
+A711
+PAVIA
+Bastida de' Dossi
+A712
+PAVIA
+Bastida Pancarana
+A741
+PAVIA
+Belgioso
+A718
+PAVIA
+Battuda
+B038
+PAVIA
+Borgo San Siro
+B051
+PAVIA
+Bornasco
+B082
+PAVIA
+Bosnasco
+M109
+PAVIA
+Voghera
+M119
+PAVIA
+Volpara
+M152
+PAVIA
+Zeccone
+M161
+PAVIA
+Zeme
+G388
+PAVIA
+Pavia
+G635
+PAVIA
+Pieve Albignola
+G612
+PAVIA
+Pietra de' Giorgi
+G671
+PAVIA
+Pinarolo Po
+G720
+PAVIA
+Pizzale
+F080
+PAVIA
+Mede
+A460
+SALERNO
+Ascea
+A495
+SALERNO
+Auletta
+D011
+SALERNO
+Corleto Monforte
+D195
+SALERNO
+Cuccari Vetere
+E026
+SALERNO
+Giffoni Sei Casali
+E027
+SALERNO
+Giffoni Valle Piana
+H644
+SALERNO
+Rutino
+H654
+SALERNO
+Sacco
+H686
+SALERNO
+Salento
+H732
+SALERNO
+Salvitelle
+H800
+SALERNO
+S. Cipriano Picentino
+H907
+SALERNO
+S. Giovanni a Piro
+H943
+SALERNO
+San Gregorio Magno
+I438
+SALERNO
+Sarno
+I483
+SALERNO
+Scafati
+C992
+TREVISO
+Cordignano
+D030
+TREVISO
+Cornudo
+D505
+TREVISO
+Farra di Soligo
+D654
+TREVISO
+Follina
+G933
+TREVISO
+Possagno
+G944
+TREVISO
+Povegliano
+H022
+TREVISO
+Preganziol
+H131
+TREVISO
+Quinto di Treviso
+H220
+TREVISO
+Refrontolo
+H706
+TREVISO
+Salgareda
+H787
+TREVISO
+S. Biagio di Callalta
+M048
+TREVISO
+Villorba
+M089
+TREVISO
+Vittorio Veneto
+M163
+TREVISO
+Zenson di Piave
+G645
+TREVISO
+Pieve di Soligo
+L058
+TREVISO
+Tarzo
+L402
+TREVISO
+Trevignano
+F061
+TRAPANI
+Mazara del Vallo
+F559
+AVELLINO
+Montemarano
+F566
+AVELLINO
+Montemiletto
+F660
+AVELLINO
+Monteverde
+F693
+AVELLINO
+Montoro Inferiore
+I756
+AVELLINO
+Sirignano
+I843
+AVELLINO
+Sorbo Serpico
+I893
+AVELLINO
+Sperone
+I990
+AVELLINO
+Sturno
+L004
+AVELLINO
+Summonte
+L061
+AVELLINO
+Taurano
+L062
+AVELLINO
+Taurasi
+L102
+AVELLINO
+Teora
+L214
+AVELLINO
+Torella del Lombardi
+L272
+AVELLINO
+Torre le Nocelle
+B219
+VARESE
+Brunello
+B228
+VARESE
+Brusimpiano
+B326
+VARESE
+Cadegliano-Viconago
+B875
+VARESE
+Casale Litta
+B949
+VARESE
+Casciago
+C139
+VARESE
+Castellanza
+C796
+VARESE
+Clivio
+C922
+VARESE
+Comerio
+D551
+VARESE
+Ferrera di Varese
+D871
+VARESE
+Galliate Lombardo
+E102
+VARESE
+Gorla Minore
+E144
+VARESE
+Grantola
+E665
+VARESE
+Lonate Ceppino
+F703
+VARESE
+Monvale
+F736
+VARESE
+Mornago
+G103
+VARESE
+Origgio
+H173
+VARESE
+Rancio Valcuvia
+I441
+VARESE
+Saronno
+I793
+VARESE
+Solbiate Arno
+L003
+VARESE
+Sumirago
+L577
+VARESE
+Valganna
+A572
+LECCE
+Bagnolo del Salento
+B616
+LECCE
+Cannole
+B822
+LECCE
+Carpignano Salentino
+E506
+LECCE
+Lecce
+F842
+LECCE
+Nardo'
+G188
+LECCE
+Otranto
+H729
+LECCE
+Salve
+I549
+LECCE
+Scorrano
+I059
+LECCE
+Sannicola
+I950
+LECCE
+Sternatia
+L074
+LECCE
+Taviano
+L484
+LECCE
+Ugento
+L711
+LECCE
+Veglie
+L776
+LECCE
+Vernole
+M187
+LECCE
+Zollino
+M261
+LECCE
+Castro
+M263
+LECCE
+Porto Cesareo
+E202
+GROSSETO
+Grosseto
+B497
+GROSSETO
+Campagnatico
+B646
+GROSSETO
+Capalbio
+C782
+GROSSETO
+Civitella Paganico
+C085
+GROSSETO
+Castel del Piano
+C147
+GROSSETO
+Castell'Azzara
+D656
+GROSSETO
+Follonica
+H449
+GROSSETO
+Roccastrada
+I601
+GROSSETO
+Semproniano
+I841
+GROSSETO
+Sorano
+D009
+PALERMO
+Corleone
+D907
+PALERMO
+Gangi
+E149
+PALERMO
+Gratteri
+E541
+PALERMO
+Lercara Friddi
+E957
+PALERMO
+Marineo
+F184
+PALERMO
+Mezzojuso
+F246
+PALERMO
+Misilmeri		
+F377
+PALERMO
+Monreale	
+F544
+PALERMO
+Montelepre	
+G263		
+PALERMO
+Palazzo Adriano	
+G348
+PALERMO
+Partinico	
+G510
+PALERMO
+Petralia Soprana	
+G511
+PALERMO
+Petralia Sottana  		
+G543
+PALERMO
+Piana degli Albanesi  		
+G792
+PALERMO
+Polizzi Generosa  		
+H070
+PALERMO
+Prizzi
+H797
+PALERMO
+San Cipirello  		
+H933
+PALERMO
+San Giuseppe Jato  		
+L131
+PALERMO
+Terrasini  		
+L282
+PALERMO
+Torretta
+L317
+PALERMO
+Trabia
+L603
+PALERMO
+Valledolmo
+L740
+PALERMO
+Ventimiglia di Sicilia
+L837
+PALERMO
+Vicari
+M268
+PALERMO
+Blufi
+F023
+MASSA - CARRARA
+Massa
+F679
+MASSA - CARRARA
+Montignoso
+G870
+MASSA - CARRARA
+Pontremoli
+A033
+COSENZA
+Acquaformosa
+A041
+COSENZA
+Acquapresa
+A053
+COSENZA
+Acri
+A102
+COSENZA
+Aiello Calabro
+A253
+COSENZA
+Amantea
+A762
+COSENZA
+Belmonte Calabro
+A773
+COSENZA
+Belvedere Marittimo
+A973
+COSENZA
+Bonifati
+B270
+COSENZA
+Buonvicino
+C108
+COSENZA
+Castrolibero
+C349
+COSENZA
+Castrovillari
+D289
+COSENZA
+Diamante
+D464
+COSENZA
+Fagnano Castello
+D624
+COSENZA
+Fiumefreddo Bruzio
+E185
+COSENZA
+Grisolia
+E242
+COSENZA
+Guardia Piemontese
+E407
+COSENZA
+Lago
+E417
+COSENZA
+Laino Borgo
+E419
+COSENZA
+Laino Castello
+E835
+COSENZA
+Maiera'
+G317
+COSENZA
+Paola
+H235
+COSENZA
+Rende
+H877
+COSENZA
+Sangineto
+H962
+COSENZA
+San Lorenzo del Vallo
+H971
+COSENZA
+San Lucido
+I060
+COSENZA
+San Nicola Arcella
+I108
+COSENZA
+San Pietro in Amantea
+I171
+COSENZA
+Santa Caterina Albanese
+I489
+COSENZA
+Scalea
+I642
+COSENZA
+Serra d'Aiello
+I895
+COSENZA
+Spezzano Albanese
+L206
+COSENZA
+Torano Castello
+L524
+COSENZA
+Vaccarizzo Albanese
+L747
+COSENZA
+Verbicaro
+M202
+COSENZA
+Zumpano
+A256
+FROSINONE
+Amaseno
+A269
+FROSINONE
+Anagni
+C413
+FROSINONE
+Ceccano
+C479
+FROSINONE
+Ceprano
+D539
+FROSINONE
+Ferentino
+D810
+FROSINONE
+Frosinone
+E057
+FROSINONE
+Giuliano di Roma
+G276
+FROSINONE
+Paliano
+G592
+FROSINONE
+Pico
+G749
+FROSINONE
+Pofi
+H324
+FROSINONE
+Ripi
+H917
+FROSINONE
+San Giovanni Incarico
+I716
+FROSINONE
+Sgurgola
+I838
+FROSINONE
+Sora
+I973
+FROSINONE
+Strangolagalli
+L290
+FROSINONE
+Torrice
+A945
+PESCARA
+Bolognano
+B193
+PESCARA
+Brittoli
+B294
+PESCARA
+Bussi sul Tirino
+B722
+PESCARA
+Caramanico Terme
+C308
+PESCARA
+Castiglione a Casauria
+C354
+PESCARA
+Catignano
+C474
+PESCARA
+Cepagatti
+C771
+PESCARA
+Civitaquana
+C779
+PESCARA
+Civitella Casanova
+D501
+PESCARA
+Farindola
+E558
+PESCARA
+Lettomanoppello
+E691
+PESCARA
+Loreto Apruntino
+E892
+PESCARA
+Manoppello
+F441
+PESCARA
+Montebello di Bertona
+G438
+PESCARA
+Penne
+G555
+PESCARA
+Pianella
+G621
+PESCARA
+Pietranico
+H425
+PESCARA
+Roccamorice
+H562
+PESCARA
+Rosciano
+H715
+PESCARA
+Salle
+I376
+PESCARA
+S.Valentino in Abruzzo Citeri
+I482
+PESCARA
+Scafa
+I649
+PESCARA
+Serramonacesca
+L186
+PESCARA
+Tocco da Casauria
+A031
+MACERATA
+Acquacanina
+A329
+MACERATA
+Apiro
+A947
+MACERATA
+Bolognola
+C251
+MACERATA
+Castelraimondo
+C704
+MACERATA
+Cignoli
+D042
+MACERATA
+Corridonia
+D429
+MACERATA
+Esanatoglia
+D564
+MACERATA
+Fiastra
+D566
+MACERATA
+Poggio San Vicino
+D609
+MACERATA
+Fiordimonte
+D628
+MACERATA
+Fiuminata
+F051
+MACERATA
+Matelica
+F268
+MACERATA
+Mogliano
+F460
+MACERATA
+Monte Cavallo
+F482
+MACERATA
+Montecosaro
+F552
+MACERATA
+Montelupone
+F621
+MACERATA
+Monte San Giusto
+F632
+MACERATA
+Potenza Picena
+F749
+MACERATA
+Morrovalle
+F793
+MACERATA
+Muccia
+G515
+MACERATA
+Petriolo
+G637
+MACERATA
+Pievebovigliana
+G657
+MACERATA
+Pieve Torina
+G690
+MACERATA
+Pioraco
+G919
+MACERATA
+Porto Recanati
+I156
+MACERATA
+San Severino Marche
+I569
+MACERATA
+Sefro
+I661
+MACERATA
+Serravalle di Chienti
+L366
+MACERATA
+Treia
+E057
+FROSINONE
+Giuliano di Roma
+G276
+FROSINONE
+Paliano
+A488
+TERAMO
+Atri
+A746
+TERAMO
+Bellante
+B515
+TERAMO
+Campli
+C040
+TERAMO
+Castel Castagna
+C311
+TERAMO
+Colledara
+C322
+TERAMO
+Castilenti
+C449
+TERAMO
+Cellino Attanasio
+C781
+TERAMO
+Civitella del Tronto
+C901
+TERAMO
+Colonnella
+C972
+TERAMO
+Controguerra
+D043
+TERAMO
+Corropoli
+D076
+TERAMO
+Cortino
+D489
+TERAMO
+Fano Adriano
+E058
+TERAMO
+Giulianova
+F500
+TERAMO
+Montefino
+F585
+TERAMO
+Roseto degli Abruzzi
+F747
+TERAMO
+Morro d`Oro
+F764
+TERAMO
+Mosciano Sant`Angelo
+F831
+TERAMO
+Pineto
+F942
+TERAMO
+Notaresco
+G437
+TERAMO
+Penna Sant`Andrea
+G608
+TERAMO
+Pietracamela
+H440
+TERAMO
+Rocca Santa Maria
+I348
+TERAMO
+Sabt`Omero
+I741
+TERAMO
+Silvi
+L103
+TERAMO
+Teramo
+L295
+TERAMO
+Torricella Sicura
+L307
+TERAMO
+Tortoreto
+L314
+TERAMO
+Tossicia
+L597
+TERAMO
+Valle Castellana
+H574
+SIRACUSA
+Rosolini
+I754
+SIRACUSA
+Siracusa
+I785
+SIRACUSA
+Solarino
+I864
+SIRACUSA
+Sortino
+M279
+SIRACUSA
+Priolo Gargallo
+A177
+MESSINA
+Alcara Li Fusi
+A313
+MESSINA
+Antillo
+A638
+MESSINA
+Bacellona Pozzo di Gotto
+B660
+MESSINA
+Capizzi
+B804
+MESSINA
+Caronia
+C094
+MESSINA
+Castel di Lucio
+C347
+MESSINA
+Castroreale
+C568
+MESSINA
+Cesaro`
+D569
+MESSINA
+Ficarra
+D622
+MESSINA
+Fiumedinisi
+D635
+MESSINA
+Floresta
+D661
+MESSINA
+Fondachelli-Fantina
+D733
+MESSINA
+Forza d`Agro`
+D765
+MESSINA
+Francavilla di Sicilia
+D825
+MESSINA
+Furnari
+D861
+MESSINA
+Galati Mamertino
+D885
+MESSINA
+Gallodoro
+E233
+MESSINA
+Gualtieri Sicamino`
+E523
+MESSINA
+Leni
+E555
+MESSINA
+Letojanni
+E674
+MESSINA
+Longi
+E855
+MESSINA
+Malfa
+E876
+MESSINA
+Mandanici
+F066
+MESSINA
+Mazzarra` Sant`Andrea
+F206
+MESSINA
+Milazzo
+F210
+MESSINA
+Militello Rosmarino
+F242
+MESSINA
+Mirto
+F251
+MESSINA
+Mistretta
+F277
+MESSINA
+Moio Alcantara
+F359
+MESSINA
+Monforte San Giorgio
+F368
+MESSINA
+Mongiuffi Melia
+F395
+MESSINA
+Montagnareale
+F400
+MESSINA
+Montalbano Elicona
+F772
+MESSINA
+Motta Camastra
+F773
+MESSINA
+Motta d`Affermo
+F848
+MESSINA
+Naso
+F901
+MESSINA
+Nizza di Sisilia
+F951
+MESSINA
+Novara di Sicilia
+G036
+MESSINA
+Oliveri
+G377
+MESSINA
+Patti
+G522
+MESSINA
+Pettineo
+H151
+MESSINA
+Raccuja
+H163
+RAGUSA
+Ragusa
+H228
+MESSINA
+Reitano
+H405
+MESSINA
+Roccafiorita
+H418
+MESSINA
+Roccalumera
+H455
+MESSINA
+Roccella Valdemone
+H479
+MESSINA
+Rodi` Milici
+H519
+MESSINA
+Rometta
+H850
+MESSINA
+San Fratello
+H982
+MESSINA
+San Marco d`Alunzio
+I084
+MESSINA
+San Pier Niceto
+I086
+MESSINA
+San Piero Patti
+I184
+MESSINA
+Santa Domenica Vittoria
+I215
+MESSINA
+Sant`Alessio Siculo
+I220
+MESSINA
+Santa Lucia del Mela
+I283
+MESSINA
+Sant`Angelo di Brolo
+I328
+MESSINA
+San Teodoro
+I370
+MESSINA
+Santo Stefano di Camastra
+I420
+MESSINA
+Saponara
+I747
+MESSINA
+Sinagra
+L308
+MESSINA
+Tortorici
+L431
+MESSINA
+Tripi
+L478
+MESSINA
+Tusa
+L482
+MESSINA
+Ucria
+M211
+MESSINA
+Acquedolci
+N370
+MESSINA
+Scaletta Zanclea - Contrada Diviet
+A014
+RAGUSA
+Acate
+E016
+RAGUSA
+Giarratana
+E366
+RAGUSA
+Ispica
+F610
+RAGUSA
+Monterosso Almo
+G953
+RAGUSA
+Pozzallo
+I178
+RAGUSA
+Santa Croce Camerina
+I535
+RAGUSA
+Scicli
+N371
+RAGUSA
+Ragusa
+N372
+RAGUSA
+Ragusa - Comiso
+N373
+RAGUSA
+Chiaramonte Gulfi
+N374
+RAGUSA
+Chiaramonte Gulfi - Caltagirone
+N375
+RAGUSA
+Comiso
+N376
+RAGUSA
+Comiso - Chiaramonte Gulfi
+N377
+RAGUSA
+Comiso - Vittoria
+N378
+RAGUSA
+Comiso - Ragusa
+N379
+RAGUSA
+Modica
+N380
+RAGUSA
+Modica - Noto
+N381
+RAGUSA
+Ragusa Ibla - Ibla
+N382
+RAGUSA
+Ragusa Ibla - NOTO
+N383
+RAGUSA
+Vittoria
+N384
+RAGUSA
+Vittoria - Acate
+F258
+RAGUSA
+Modica
+C612
+RAGUSA
+Chiaramonte Gulfi
+C927
+RAGUSA
+Comiso
+A070
+ENNA
+Agira
+A098
+ENNA
+Aidon
+A478
+ENNA
+Assoro
+A676
+ENNA
+Barrafranca
+B381
+ENNA
+Calascibetta
+C342
+ENNA
+Enna
+C353
+ENNA
+Catenanuova
+C471
+ENNA
+Centoripe
+C480
+ENNA
+Cerami
+D849
+ENNA
+Gagliano Castelferrato
+E536
+ENNA
+Leonforte
+F892
+ENNA
+Nicosia
+F900
+ENNA
+Nissoria
+G580
+ENNA
+Piazza Armerina
+G624
+ENNA
+Pietraperzia
+H221
+ENNA
+Regalbuto
+I891
+ENNA
+Sperlinga
+L448
+ENNA
+Troina
+L583
+ENNA
+Valguarnera Caropere
+M011
+ENNA
+Villarosa
+E869
+MESSINA
+Malvagna
+M088
+RAGUSA
+Vittoria
+A957
+CALTANISETTA
+Bompensiere
+B302
+CALTANISETTA
+Butera
+B537
+CALTANISETTA
+Campofranco
+D267
+CALTANISETTA
+Delia
+D960
+CALTANISETTA
+Gela
+E618
+CALTANISETTA
+Milena
+E953
+CALTANISETTA
+Marianopoli
+F489
+CALTANISETTA
+Montedoro
+F830
+CALTANISETTA
+Mussomeli
+F899
+CALTANISETTA
+Niscemi
+H245
+CALTANISETTA
+Resuttano
+H281
+CALTANISETTA
+Riesi
+H792
+CALTANISETTA
+San Cataldo
+D960
+CALTANISETTA
+Gela
+E953
+CALTANISETTA
+Marianopoli
+F830
+CALTANISETTA
+Mussomeli
+F899
+CALTANISETTA
+Niscemi 
+H245
+CALTANISETTA
+Resuttano
+I169
+CALTANISETTA
+Santa Caterina Villarmosa 
+I644
+CALTANISETTA
+Serradifalco
+L016
+CALTANISETTA
+Sutera
+L609
+CALTANISETTA
+Vallelunga Pratameno 
+L959
+CALTANISETTA
+Villalba 
+B486
+AGRIGENTO
+Cammarata
+B520
+AGRIGENTO
+Campobello di Licata 
+B602
+AGRIGENTO
+Canicatti' 
+C275
+AGRIGENTO
+Casteltermini
+C341
+AGRIGENTO
+Castrofilippo
+C356
+AGRIGENTO
+Cattolica Eraclea
+C668
+AGRIGENTO
+Cianciana
+C9228
+AGRIGENTO
+Comitini
+D514
+AGRIGENTO
+Favara 
+E209
+AGRIGENTO
+Grotte 
+E390
+AGRIGENTO
+Joppolo Giancaxio
+E573
+AGRIGENTO
+Licata 
+E714
+AGRIGENTO
+Lucca Sicula 
+F126
+AGRIGENTO
+Menfi 
+F299
+AGRIGENTO
+Porto Empedocle
+F414
+AGRIGENTO
+Montallegro 
+F655
+AGRIGENTO
+Montevago 
+F845
+AGRIGENTO
+Naro 
+G282
+AGRIGENTO
+Palma di Montechiaro
+H148
+AGRIGENTO
+Racalmuto  
+H159
+AGRIGENTO
+Raffadali
+H194
+AGRIGENTO
+Ravanusa 
+H269
+AGRIGENTO
+Ribera
+H743
+AGRIGENTO
+Sambuca di Sicilia
+H778
+AGRIGENTO
+San Biagio Platani
+H914
+AGRIGENTO
+San Giovanni Gemini
+I185
+AGRIGENTO
+Santa Elisabetta 
+I224
+AGRIGENTO
+Santa Margheritta di Belice 
+I290
+AGRIGENTO
+Sant'Angelo Muxaro 
+I356
+AGRIGENTO
+Santo Stefano Quisquina 
+I533
+AGRIGENTO
+Sciacca 
+I723
+AGRIGENTO
+Siculiana 
+L944
+AGRIGENTO
+Villafranca Sicula
+A013
+POTENZA 
+Abriola
+A020
+POTENZA 
+Acerenza 
+A131
+POTENZA 
+Albano di Lucania 
+A415
+POTENZA 
+Armento 
+A482
+POTENZA 
+Atella 
+A519
+POTENZA 
+Avigliano 
+A604
+POTENZA 
+Balvano 
+A612
+POTENZA 
+Banzi 
+B173
+POTENZA 
+Brienza
+B440
+POTENZA 
+Calvello 
+B549
+POTENZA 
+Campomaggiore 
+B743
+POTENZA 
+Carbone 
+B906
+POTENZA 
+San Paolo Albanese 
+C201
+POTENZA 
+Castelluccio Superiore
+C209
+POTENZA 
+Castelmezzano
+C271
+POTENZA 
+Castelsaraceno 
+C619
+POTENZA 
+Chiaromonte  
+D010
+POTENZA 
+Corleto Perticara 
+D497
+POTENZA 
+Fardella 
+D593
+POTENZA 
+Filiano 
+D696
+POTENZA 
+Forenza  
+D766
+POTENZA 
+Francavilla in Sinni  
+D876
+POTENZA 
+Gallicchio  
+D971
+POTENZA 
+Genzano di Lucania  
+E033
+POTENZA 
+Ginestra  
+E221
+POTENZA 
+Grumento Nova  
+E246
+POTENZA 
+Guardia Perticara  
+E409
+POTENZA 
+Lagonegro  
+E482
+POTENZA 
+Laurenzana
+E474
+POTENZA 
+Latronico 
+E483
+POTENZA 
+Lauria 
+E493
+POTENZA 
+Lavello 
+E919
+POTENZA 
+Maratea 
+E976
+POTENZA 
+Marsico Nuovo
+E977
+POTENZA 
+Marsicovetere
+F006
+POTENZA 
+Maschito
+F104
+POTENZA 
+Melfi
+F249
+POTENZA 
+Missanello
+F295
+POTENZA 
+Moliterno
+F568
+POTENZA 
+Montemilone
+F573
+POTENZA 
+Montemurro
+F817
+POTENZA 
+Muro Lucano
+F917
+POTENZA 
+Noepoli
+G081
+POTENZA 
+Oppido Lucano
+G261
+POTENZA 
+Palazzo San Gervasio
+G496
+POTENZA 
+Pescopagano
+G590
+POTENZA 
+Picerno
+G614
+POTENZA 
+Satriano di Lucania
+G616
+POTENZA 
+Pietrgalla
+G623
+POTENZA 
+Pietrapertosa
+G663
+POTENZA 
+Pignola
+H186
+POTENZA 
+Rapolla
+H187
+POTENZA 
+Rapone
+H307
+POTENZA 
+Rionero in Vulture
+H312
+POTENZA 
+Ripacandida
+H348
+POTENZA 
+Rivello
+H590
+POTENZA 
+Rotonda
+H646
+POTENZA 
+Ruvo del Monte
+H730
+POTENZA 
+Savoia di Lucania
+H795
+POTENZA 
+San Chirico Nuovo
+H796
+POTENZA 
+San Chirico Raparo
+H808
+POTENZA 
+San Costantino Albanese
+H831
+POTENZA 
+San Fele
+H994
+POTENZA 
+San Martino D'Agri
+I305
+POTENZA 
+Sant'Arcangelo
+I157
+POTENZA 
+San Severino Lucano
+I457
+POTENZA 
+Sasso di Castalda
+I610
+POTENZA 
+Senise
+L082
+POTENZA 
+Teana
+L126
+POTENZA 
+Terranova di Pollino
+L181
+POTENZA 
+Tito
+L197
+POTENZA 
+Tolve
+L326
+POTENZA 
+Tramutola
+L357
+POTENZA 
+Trecchina
+L532
+POTENZA 
+Vaglio Basilicata
+L859
+POTENZA 
+Vietri di Potenza 
+H641
+POTENZA 
+Ruoti
+H426
+POTENZA 
+Roccanova
+L738
+POTENZA 
+Venosa
+L873
+POTENZA 
+Viggianello
+L874
+POTENZA 
+Viggiano
+M269
+POTENZA 
+Paterno
+G037
+MATERA 
+Oliveto Lucano 
+G712
+MATERA 
+Pisticci
+G806
+MATERA 
+Pomarico
+H687
+MATERA 
+Salandra
+I029
+MATERA 
+San Mauro Forte
+I954
+MATERA 
+Stigliano
+L418
+MATERA 
+Tricarico
+G767
+TRAPANI
+Poggioreale
+H688
+TRAPANI
+Salaparuta
+H700
+TRAPANI
+Salemi
+A341
+LATINA
+Aprilia
+C104
+LATINA
+Castelforte
+C740
+LATINA
+Cisterna di Latina
+D003
+LATINA
+Cori
+D708
+LATINA
+Formia
+E375
+LATINA
+Itri
+E472
+LATINA
+Latina
+E527
+LATINA
+Lenola
+G865
+LATINA
+Pontinia
+H421
+LATINA
+Rocca Massima
+H647
+LATINA
+Sabaudia
+H836
+LATINA
+San Felice Circeo
+I339
+LATINA
+Santi Cosma e Damiano
+I832
+LATINA
+Sonnino
+I892
+LATINA
+Sperlonga
+I902
+LATINA
+Spigno Saturnia
+A261
+LA SPEZIA
+Ameglia
+A922
+LA SPEZIA
+Borghetto di Vara 
+B214
+LA SPEZIA
+Brugnato
+B410
+LA SPEZIA
+Calice al Cornoviglio
+B383
+LA SPEZIA
+Calasetta
+D265
+LA SPEZIA
+Deiva Marina
+D655
+LA SPEZIA
+Follo
+D758
+LA SPEZIA
+Framura
+E070
+LA SPEZIA
+Sesta Godano
+E542
+LA SPEZIA
+Lerici
+E842
+LA SPEZIA
+Maissana
+F609
+LA SPEZIA
+Monterosso al Mare
+G664
+LA SPEZIA
+Pignone
+H275
+LA SPEZIA
+Ricco' del Golfo di Spezia
+H461
+LA SPEZIA
+Rocchetta di Vara
+I363
+LA SPEZIA
+Santo Stefano di Magara
+L681
+LA SPEZIA
+Varese Ligure
+L819
+LA SPEZIA
+Vezzano Ligure
+M177
+LA SPEZIA
+Zignago
+A122
+SAVONA
+Alassio
+A145
+SAVONA
+Albenga
+A165
+SAVONA
+Albisola Marina
+A166
+SAVONA
+Albisola Superiore
+A278
+SAVONA
+Andora
+A999
+SAVONA
+Borghetto Santo Spirito
+B409
+SAVONA
+Calice Ligure
+C063
+SAVONA
+Castelbianco
+C276
+SAVONA
+Castelvecchio di Rocca Barbena
+C729
+SAVONA
+Casano Sul Neva
+D522
+SAVONA
+Orco Feglino
+D600
+SAVONA
+Finale Ligure
+D927
+SAVONA
+Garlenda
+E064
+SAVONA
+Giustenice
+E066
+SAVONA
+Giusvalla
+E631
+SAVONA
+Loano
+E816
+SAVONA
+Magliolo
+F226
+SAVONA
+Mioglia
+G144
+SAVONA
+Ortovero
+G605
+SAVONA
+Pietra Ligure
+G806
+SAVONA
+Pomarico
+H266
+SAVONA
+Rialto
+I480
+SAVONA
+Savona
+I926
+SAVONA
+Spotorno
+I946
+SAVONA
+Stella
+I947
+SAVONA
+Stellanello
+L190
+SAVONA
+Toirano
+L315
+SAVONA
+Tovo San Giacomo
+L499
+SAVONA
+Urbe
+L499
+SAVONA
+Urbe
+L675
+SAVONA
+Varazze
+D189
+CROTONE
+Crucoli
+D194
+ALESSANDRIA
+Cuccaro Monferrato
+D277
+ALESSANDRIA
+Dernice
+D447
+ALESSANDRIA
+Fabbrica Curone
+D528
+ALESSANDRIA
+Felizzano
+D559
+ALESSANDRIA
+Fraconalto
+D770
+ALESSANDRIA
+Frascaro
+D777
+ALESSANDRIA
+Frassinello Monferrato
+D780
+ALESSANDRIA
+Frassineto Po
+D813
+ALESSANDRIA
+Frugarolo
+D814
+ALESSANDRIA
+Fubine
+D890
+ALESSANDRIA
+Gamalero
+D910
+ALESSANDRIA
+Garbagna
+D944
+ALESSANDRIA
+Gavi
+E015
+ALESSANDRIA
+Giarole
+E164
+ALESSANDRIA
+Gremiasco
+E191
+ALESSANDRIA
+Grondona
+E360
+ALESSANDRIA
+Isola Sant`Antonio
+E543
+ALESSANDRIA
+Lerma
+E712
+ALESSANDRIA
+Lu
+E870
+ALESSANDRIA
+Malvicino
+F096
+ALESSANDRIA
+Melazzo
+F232
+ALESSANDRIA
+Mirabello Monferrato
+F281
+ALESSANDRIA
+Molare
+F293
+ALESSANDRIA
+Molino dei Torti
+F320
+ALESSANDRIA
+Momperone
+F365
+ALESSANDRIA
+Mongiardino Ligure
+F374
+ALESSANDRIA
+Monleale
+F387
+ALESSANDRIA
+Montacuto
+F455
+ALESSANDRIA
+Montecastello
+F469
+ALESSANDRIA
+Montechiaro d`Acqui
+F562
+ALESSANDRIA
+Montemarzino
+F713
+ALESSANDRIA
+Morbello
+F737
+ALESSANDRIA
+Mornese
+F965
+ALESSANDRIA
+Novi Ligure
+F995
+ALESSANDRIA
+Occimiano
+F997
+ALESSANDRIA
+Odalengo Grande
+G197
+ALESSANDRIA
+Ovada
+G199
+ALESSANDRIA
+Oviglio
+G334
+ALESSANDRIA
+Pareto
+G619
+ALESSANDRIA
+Pietra Marazzi
+G695
+ALESSANDRIA
+Piovera
+G807
+ALESSANDRIA
+Pomaro Monferrato
+G839
+ALESSANDRIA
+Pontecurone
+G877
+ALESSANDRIA
+Ponzone
+G960
+ALESSANDRIA
+Pozzol Groppo
+G961
+ALESSANDRIA
+Pozzolo Formigaro
+H021
+ALESSANDRIA
+Predosa
+H104
+ALESSANDRIA
+Quargnento
+H343
+ALESSANDRIA
+Rivarone
+H406
+ALESSANDRIA
+Roccaforte Ligure
+H414
+ALESSANDRIA
+Rocca Grimalda
+H465
+ALESSANDRIA
+Rocchetta Ligure
+H694
+ALESSANDRIA
+Sale
+I144
+ALESSANDRIA
+San Salvatore Monferrato
+I150
+ALESSANDRIA
+San Sebastoano CURONE
+I657
+ALESSANDRIA
+Serravalle Scrivia
+I711
+ALESSANDRIA
+Sezzadio
+I901
+ALESSANDRIA
+Spingo Monferrato
+I941
+ALESSANDRIA
+Stazzano
+L027
+ALESSANDRIA
+Tagliolo Monferrato
+L059
+ALESSANDRIA
+Tassarolo
+L165
+ALESSANDRIA
+Ticineto
+L304
+ALESSANDRIA
+Tortona
+A317
+VERBANIA
+Antrona Schieranco
+A534
+VERBANIA
+Baceno
+A610
+VERBANIA
+Bannio Anzino
+A725
+VERBANIA
+Baveno
+A733
+VERBANIA
+Bee
+A742
+VERBANIA
+Belgirate
+A834
+VERBANIA
+Beura-Cardezza
+A925
+VERBANIA
+Bognanco
+B207
+VERBANIA
+Brovello-Carpugnino
+B380
+VERBANIA
+Calasca-Castiglione
+B610
+VERBANIA
+Cannero Riviera
+B615
+VERBANIA
+Cannobio
+B876
+VERBANIA
+Casale Corte Cerro
+C367
+VERBANIA
+Cavaglio-Spoccia
+C478
+VERBANIA
+Ceppo Morelli
+C567
+VERBANIA
+Cesara
+D134
+VERBANIA
+Craveggia
+D168
+VERBANIA
+Crevoladossola
+D177
+VERBANIA
+Crodo
+D225
+VERBANIA
+Cursolo-Orasso
+D332
+VERBANIA
+Domodossola
+D374
+VERBANIA
+Druogno
+D481
+VERBANIA
+Falmenta
+D706
+VERBANIA
+Formazza
+E003
+VERBANIA
+Ghiffa
+E028
+VERBANIA
+Gignese
+E153
+VERBANIA
+Gravellona Toce
+E269
+VERBANIA
+Gurro
+E685
+VERBANIA
+Loreglia
+E790
+VERBANIA
+Macuganga
+E795
+VERBANIA
+Madonna del Sasso
+E853
+VERBANIA
+Malesco
+F010
+VERBANIA
+Masera
+F048
+VERBANIA
+Massiola
+F146
+VERBANIA
+Mergozzo
+F483
+VERBANIA
+Montecrestese
+F639
+VERBANIA
+Montescheno
+G007
+VERBANIA
+Oggebbio
+G062
+VERBANIA
+Omegna
+G117
+VERBANIA
+Ornavasso
+G280
+VERBANIA
+Pallanzeno
+G600
+VERBANIA
+Piedimulera
+G658
+VERBANIA
+Pieve Vergonte
+H030
+VERBANIA
+Premeno
+H033
+VERBANIA
+Premia
+H037
+VERBANIA
+Premosello-Chiovenda
+H106
+VERBANIA
+Quarna Sopra
+H107
+VERBANIA
+Quarna Sotto
+H203
+VERBANIA
+Re
+H777
+VERBANIA
+San Bernardino Verbano
+I249
+VERBANIA
+Santa Maria Maggiore
+I619
+VERBANIA
+Seppiana
+I976
+VERBANIA
+Stresa
+L187
+VERBANIA
+Toceno
+L333
+VERBANIA
+Trarego Viggiona
+L336
+VERBANIA
+Trasquera
+L450
+VERBANIA
+Trontano
+L651
+VERBANIA
+Valstrona
+L666
+VERBANIA
+Vanzpne con San Carlo
+L691
+VERBANIA
+Varzo
+L746
+VERBANIA
+Verbania
+L864
+VERBANIA
+Viganella
+L889
+VERBANIA
+Vignone
+L906
+VERBANIA
+Villadossola
+M042
+VERBANIA
+Villette
+M111
+VERBANIA
+Vogogna
+B180
+BRINDISI
+Brindisi
+B809
+BRINDISI
+Carovigno
+C424
+BRINDISI
+Ceglie Messapica
+C448
+BRINDISI
+Cellino San Marco
+C741
+BRINDISI
+Cisternino
+D422
+BRINDISI
+Erchie
+D508
+BRINDISI
+Fasano
+D593
+POTENZA
+Filiano
+D761
+BRINDISI
+Francavilla Fontana
+E471
+BRINDISI
+Latiano
+F152
+BRINDISI
+Mesagne
+G098
+BRINDISI
+Oria
+G187
+BRINDISI
+Ostuni
+H822
+BRINDISI
+San Donaci
+I045
+BRINDISI
+San Michele Salentino
+I066
+BRINDISI
+San Pancrazio Salentino
+I119
+BRINDISI
+San Pietro Vernotico
+I396
+BRINDISI
+San Vito dei Normanni
+L213
+BRINDISI
+Torchiarolo
+L280
+BRINDISI
+Torre Santa Susanna
+L920
+BRINDISI
+Villa Castelli
+A514
+TARANTO
+Avetrana
+B808
+TARANTO
+Carosino
+C136
+TARANTO
+Castellaneta
+D171
+TARANTO
+Crispiano
+D463
+TARANTO
+Faggiano
+F027
+TARANTO
+Massafra
+F563
+TARANTO
+Montemesola
+G251
+TARANTO
+Palagianello
+H090
+TARANTO
+Pulsano
+H409
+TARANTO
+Roccaforzata
+H882
+TARANTO
+San Giorgio Ionico
+I018
+TARANTO
+San Marzano di San Giuseppe
+I467
+TARANTO
+Sava
+L049
+TARANTO
+Taranto
+L294
+TARANTO
+Torricella
+E036
+TARANTO
+Ginosa
+E205
+TARANTO
+Grottaglie
+E469
+TARANTO
+Laterza
+E537
+TARANTO
+Leporano
+E630
+TARANTO
+Lizzano
+E882
+TARANTO
+Manduria
+E986
+TARANTO
+Martina Franca
+E995
+TARANTO
+Maruggio
+A772
+CROTONE
+Belvedere di Spinello
+B319
+CROTONE
+Caccuri
+B771
+CROTONE
+Carfizzi
+B857
+CROTONE
+Casabona
+B968
+CROTONE
+Castelsilano
+C725
+CROTONE
+Ciro'
+C726
+CROTONE
+Ciro' Marina
+D122
+CROTONE
+Crotone
+D123
+CROTONE
+Cotronei
+D189
+CROTONE
+Crucoli
+D236
+CROTONE
+Cutro
+E339
+CROTONE
+Isola di Capo Rizzuto
+F108
+CROTONE
+Melissa
+F157
+CROTONE
+Mesoraca
+G278
+CROTONE
+Pallagorio
+G508
+CROTONE
+Petilia Policastro
+H383
+CROTONE
+Roccabernarda
+H403
+CROTONE
+Rocca di Neto
+I026
+CROTONE
+San Mauro Marchesato
+I057
+CROTONE
+San Nicola dell'Alto
+I308
+CROTONE
+Santa Severina
+I468
+CROTONE
+Savelli
+I494
+CROTONE
+Scandale
+I982
+CROTONE
+Strongoli
+L492
+CROTONE
+Umbriatico
+L802
+CROTONE
+Verzino
+A043
+VIBO VALENTIA
+Acquaro
+A386
+VIBO VALENTIA
+Arena
+B169
+VIBO VALENTIA
+Briatico
+B197
+VIBO VALENTIA
+Brognaturo
+B655
+VIBO VALENTIA
+Capistrano
+C581
+VIBO VALENTIA
+Cessaniti
+D253
+VIBO VALENTIA
+Dasa`
+D303
+VIBO VALENTIA
+Dinami
+D364
+VIBO VALENTIA
+Drapia
+D453
+VIBO VALENTIA
+Fabrizia
+D587
+VIBO VALENTIA
+Filadelfia
+D589
+VIBO VALENTIA
+Filandari
+D596
+VIBO VALENTIA
+Filogaso
+D762
+VIBO VALENTIA
+Francavilla Angitola
+D767
+VIBO VALENTIA
+Francica
+D988
+VIBO VALENTIA
+Gerocarne
+E321
+VIBO VALENTIA
+Ionadi
+E389
+VIBO VALENTIA
+Joppolo
+E590
+VIBO VALENTIA
+Limbadi
+E836
+VIBO VALENTIA
+Maierato
+F207
+VIBO VALENTIA
+Mileto
+F364
+VIBO VALENTIA
+Mongiana
+F537
+VIBO VALENTIA
+Vibo Valentia
+F607
+VIBO VALENTIA
+Monterosso Calabro
+F843
+VIBO VALENTIA
+Nardodipace
+F893
+VIBO VALENTIA
+Nicotera
+G335
+VIBO VALENTIA
+Parghelia
+G722
+VIBO VALENTIA
+Pizzo
+G728
+VIBO VALENTIA
+Pizzoni
+G785
+VIBO VALENTIA
+Polia
+H271
+VIBO VALENTIA
+Ricadi
+H516
+VIBO VALENTIA
+Rombiolo
+H785
+VIBO VALENTIA
+San Calogero
+H807
+VIBO VALENTIA
+San Costantino Calabro
+H941
+VIBO VALENTIA
+San Gregorio d`Ippona
+I058
+VIBO VALENTIA
+San Nicola da Crissa
+I350
+VIBO VALENTIA
+Sant`Onofrio
+I639
+VIBO VALENTIA
+Serra San Bruno
+I744
+VIBO VALENTIA
+Simbario
+I853
+VIBO VALENTIA
+Sorianello
+I854
+VIBO VALENTIA
+Soriano Calabro
+I884
+VIBO VALENTIA
+Spadola
+I905
+VIBO VALENTIA
+Spilinga
+I945
+VIBO VALENTIA
+Stefanaconi
+L452
+VIBO VALENTIA
+Tropea
+L607
+VIBO VALENTIA
+Vallelonga
+L699
+VIBO VALENTIA
+Vazzano
+M138
+VIBO VALENTIA
+Zaccanopoli
+M143
+VIBO VALENTIA
+Zambrone
+M204
+VIBO VALENTIA
+Zungri
+A399
+AVELLINO
+Ariano Irpino
+I281
+AVELLINO
+Sant`Angelo dei Lombardi

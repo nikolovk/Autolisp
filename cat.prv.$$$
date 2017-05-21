@@ -1,0 +1,19 @@
+;;; Visual LISP make file [V1.0] cat saved to:[C:/cat/source] at:[1/22/07] 
+(PRV-DEF (:target . "cat.VLX")
+	 (:active-x . T)
+	 (:separate-namespace)
+	 (:protected . T)
+	 (:load-file-list
+	   (:lsp "work/BOX.LSP")
+	   (:lsp "work/cat.lsp")
+	   (:lsp "work/check.LSP")
+	   (:lsp "work/cxf-in.lsp")
+	   (:lsp "work/HOUSE.LSP")
+	   (:lsp "work/peditall.lsp")
+	 )
+	 (:require-file-list)
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . st)
+)
+;; EOF

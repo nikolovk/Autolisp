@@ -1,0 +1,9 @@
+1. Инсталира се AutoCad 2000i (Acad2000i)
+2. Инсталира се Cad Overlay 2000i
+3. Копира се папка SOURCE в C:\CAT\
+4. Правят се следните настройки на options - Files:
+Support File Search Path - C:\CAT\SOURCE
+Drawing Tamplate File Location - C:\CAT\SOURCE
+5. Зарежда се меню CAT с командата MENULOAD
+6. Добавя се CAT.VLX в contents - appload
+

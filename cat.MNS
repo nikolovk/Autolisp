@@ -1,0 +1,296 @@
+//
+//      AutoCAD menu file - C:\cat\source\cat.mns
+//
+
+***MENUGROUP=CAT
+
+***POP3
+               [&CATASTO]
+               [Part, Confine, Edificio,...]^C^CPA 
+               [Draw House]^C^CE1 
+               [Postavi --S--]^C^Cchange_E2 
+               [--]
+               [Number Part-Strelka,rotate (1.8,1.2)]^C^CNP 
+               [Number Part (1.8,1.2)]^C^CN2 
+               [Number STRADA (1.8)]^C^Cnum-strada 
+               [Number ACQUA (1.8)]^C^Cnum-acqua 
+               [Number Chiesa (1.8)]^C^Ct-chiesa 
+               [Number Confine]^C^Cn-map 
+               [Line Strelka - Part]^C^Cls 
+               [--]
+               [->LINEA]
+                 [L1 _____]^C^CL1 
+                 [L1 CROCE - krastcheta po granicata]^C^Cins-croce 
+                 [L5 - - -]^C^CL5 
+                 [L6 .....]^C^CL6 
+                 [L11 croce]^C^CL11 
+                 [L12 non visibile]^C^C(DrawPLineInLayer "L12") 
+                 [L29  - -  Foglio]^C^CL29 
+                 [L33  -..- Comune]^C^CL33 
+                 [L32 - + - Provincia]^C^CL32 
+                 [L31 +..+ Region]^C^CL31 
+                 [L30 ++++ Stato]^C^CL30 
+                 [L34]^C^C(DrawPLineInLayer "L34") 
+                 [<-L35]^C^C(DrawPLineInLayer "L35") 
+               [--]
+               [->SIMBOLO]
+                 [2 --<|]^C^Cins2 
+                 [3  +]^C^C(inssim "3" "SIMBOLO") 
+                 [4 >--<]^C^C(inssim "4" "SIMBOLO") 
+                 [6 --|>]^C^Cins6 
+                 [8 Punti Trigonometrici]^C^Cp-trig 
+                 [11 --<>]^C^Cins11 
+                 [<-20 o FIDUCIALE]^C^Cfidu 
+               [->TESTO]
+                 [Strada - 2.5]^C^Ct-str 
+                 [Acqua - 2.5]^C^Ct-acq 
+                 [Ime na kartata - 4, 9, 4]^C^Cime 
+                 [Localita' - 2.5]^C^Ct-loc 
+                 [Foglio..Provincia..Comune.. - 4]^C^Ct-out4 
+                 [Scala di 1:XXXX;... - 4]^C^Ct-sca 
+                 [<-x=...;y=... - 2.5]^C^Cdraw-xy 
+               [Part nomer - morto]^C^C(instxtort "TESTO" 1.4) 
+               [--]
+               [->Check]
+                 [Duplicated numbers]^C^Ccheck-dup 
+                 [Proverka za visiashti linii]^C^Ccheck-vis 
+                 [<-Proverka obekti,strelki,height]^C^Ccheck-all 
+               [->Topology]
+                 [Topology PART]^C^Ctopo-part 
+                 [Topology CONF]^C^Ctopo-conf 
+                 [<-Topology EDI]^C^Ctopo-edi 
+               [->Build]
+                 [Closed polylines - PART]^C^Cpoly-part 
+                 [Closed polylines - CONF]^C^Cpoly-conf 
+                 [Closed polylines - EDI]^C^Cpoly-edi 
+                 [Make EDI]^C^Cnum-edi 
+                 [Make "LINEA" (L1,L5..)]^C^Cmake-linea 
+                 [<-Make OUT]^C^Cmake-out 
+               [Proverka za kyshti]^C^Cshow-dup-edi 
+               [--]
+               [Scala]^C^C(set-scala) 
+               [--]
+               [cxf-in]^C^Ccxf-in 
+               [--]
+               [Proverka TXT]^C^C(menu-proverka-txt) 
+               [Proverka TXT - PODREDENI PO PLOSHT]^C^C(podredeni-plosht-novi) 
+               [->Proverki]
+                 [Proverka visiashti linii mozaika]^C^Ccheck-moz-vis 
+                 [Proverka topologia mozaika]^C^Ccheck-moz-topo 
+                 [Proverka dobaveni i iztriti nomera]^C^C(check-new-old) 
+                 [Spisyk na VSICHKI iztriti npmera]^C^Ccheck-del-orig 
+                 [Spisyk na VSICHKI DOBAVENI npmera]^C^Ccheck-dobaveni-all 
+                 [Novi nomera]^C^C(print-sp-new sp-novi) 
+                 [Stari nomera]^C^C(print-sp-new sp-stari) 
+                 [Broi GRESHKI]^C^C(broi-greshki) 
+                 [<-Tekstov fail]^C^C(print-sp-new sp-txt) 
+               [--]
+               [->Mozaika]
+                 [MAX-NUM]^C^C(max-num) 
+                 [Vmykva DWG-ta v edna mozaika]^C^Cdwg-ins 
+                 [Pravi otdelni DWG-ta ot edna mozaika]^C^Cdwg-out 
+                 [Read sup plosht]^C^Cread-total-all 
+                 [NAPRAVI OTDELNI TXT]^C^C(make-txt-file) 
+                 [Write sup plosht]^C^Cwrite-sup-map 
+                 [<-Vmykva Ploshti ot xls file]^C^Cwrite-sup-xls 
+               [Draw ramka za TIF]^C^Cdraw-ramka 
+               [Popravka na text]^C^C(popravka-txt-ang) 
+               [Change map]^C^Ccm 
+               [->STARI Proverki]
+                 [Proverka AV.DAL]^C^Ccheck-dwg 
+                 [Proverka plosht]^C^C(check-dwg-plosht "nesort") 
+                 [Proverka plosht podrdeni]^C^C(check-dwg-plosht "sort") 
+                 [Proverka dobaveni nomera]^C^Ccheck-new-num 
+                 [Proverka iztriti nomera]^C^Ccheck-del-num 
+                 [Originalni 00]^C^C(princ sp-00) 
+                 [Originalni CEN]^C^C(princ sp-CEN) 
+                 [Originalni 0x]^C^C(princ sp-x0) 
+                 [<-Tyrsi syotvetstvie]^C^Cfp 
+
+***TOOLBARS
+**FT
+ID_FT_0        [_Toolbar("FT", _Top, _Show, 1, 1, 1)]
+ID_UserButton_10 [_Button("Freeze all", "Freeze.bmp", "ICON_16_BLANK")]^C^C-la^Mf^M*^M^M
+ID_UserButton_11 [_Button("Thaw all", "Thaw.bmp", "ICON_16_BLANK")]^C^C-la^Mt^M*^M^M
+ID_UserButton_7 [_Button("Reak", "Reak.bmp", "ICON_16_BLANK")]^C^Creak 
+ID_UserButton_57 [_Button("FT Error", "ICON_16_BLANK", "ICON_16_BLANK")]^C^C-la^Mf^M*^Mt^Merror^M^M
+ID_UserButton_62 [_Button("INS-LA", "INS-LA.bmp", "ICON_16_BLANK")]^C^Cins-la 
+
+**DRAWCAT
+ID_DrawCat_0   [_Toolbar("DrawCat", _Top, _Show, 2, 0, 1)]
+ID_UserButton_16 [_Button("PART, EDI, CONFINE", "PART.bmp", "ICON_16_BLANK")]^C^Cpa 
+ID_UserButton_18 [_Button("Draw House", "House.bmp", "ICON_16_BLANK")]^C^Ce1 
+ID_UserButton_20 [_Button("Postavi S", "S.bmp", "ICON_16_BLANK")]^C^Cchange_E2 
+
+**NUMBERS
+ID_Numbers_0   [_Toolbar("Numbers", _Top, _Show, 2, 1, 1)]
+ID_UserButton_22 [_Button("Number Part -multiple", "NP1.bmp", "ICON_16_BLANK")]^C^Cnp 
+ID_UserButton_23 [_Button("Number Part - single", "NP2.bmp", "ICON_16_BLANK")]^C^Cn2 
+ID_UserButton_24 [_Button("Number STRADA", "NSTR.bmp", "ICON_16_BLANK")]^C^Cnum-strada 
+ID_UserButton_25 [_Button("Number ACQUA", "Nacq.bmp", "ICON_16_BLANK")]^C^Cnum-acqua 
+ID_UserButton_21 [_Button("Number Chiesa", "Nchiesa.bmp", "ICON_16_BLANK")]^C^Ct-chiesa 
+ID_UserButton_26 [_Button("Number Confine", "Nconf.bmp", "ICON_16_BLANK")]^C^Cn-map 
+ID_UserButton_19 [_Button("LINEA-P", "Lstrelka.bmp", "ICON_16_BLANK")]^C^Cls 
+
+**LINEA
+ID_LINEA_0     [_Toolbar("LINEA", _Top, _Show, 3, 0, 1)]
+ID_UserButton_27 [_Button("L1", "L1.bmp", "ICON_16_BLANK")]^C^Cl1 
+ID_UserButton_28 [_Button("L5", "L5.bmp", "ICON_16_BLANK")]^C^Cl5 
+ID_UserButton_29 [_Button("L6", "L6.bmp", "ICON_16_BLANK")]^C^Cl6 
+ID_UserButton_30 [_Button("L11", "L11.bmp", "ICON_16_BLANK")]^C^Cl11 
+ID_UserButton_31 [_Button("L29", "L29.bmp", "ICON_16_BLANK")]^C^Cl29 
+ID_UserButton_32 [_Button("L33", "L33.bmp", "ICON_16_BLANK")]^C^Cl33 
+
+**TESTO
+ID_TESTO_0     [_Toolbar("TESTO", _Top, _Show, 3, 1, 1)]
+ID_UserButton_33 [_Button("Testo Strada", "Tstr.bmp", "ICON_16_BLANK")]^C^Ct-str 
+ID_UserButton_34 [_Button("Testo Acqua", "Tacq.bmp", "ICON_16_BLANK")]^C^Ct-acq 
+ID_UserButton_35 [_Button("Testo Localita", "Tloc.bmp", "ICON_16_BLANK")]^C^Ct-loc 
+ID_UserButton_36 [_Button("Testo Foglio, Comune", "Tfog.bmp", "ICON_16_BLANK")]^C^Ct-out4 
+
+**TOOLBAR1
+**CATASTO
+ID_Toolbar1_0  [_Toolbar("CATASTO", _Top, _Show, 4, 0, 1)]
+ID_UserFlyout_2 [_Flyout("User Defined Flyout", ICON_16_BLANK, ICON_16_BLANK, _OtherIcon, CAT.DRAWCAT)]
+ID_UserFlyout_4 [_Flyout("User Defined Flyout", ICON_16_BLANK, ICON_16_BLANK, _OtherIcon, CAT.NUMBERS)]
+ID_UserFlyout_1 [_Flyout("User Defined Flyout", ICON_16_BLANK, ICON_16_BLANK, _OtherIcon, CAT.TESTO)]
+ID_UserFlyout_3 [_Flyout("User Defined Flyout", ICON_16_BLANK, ICON_16_BLANK, _OtherIcon, CAT.LINEA)]
+ID_UserFlyout_5 [_Flyout("User Defined Flyout", ICON_16_BLANK, ICON_16_BLANK, _OtherIcon, CAT.SIMBOL)]
+
+**SIMBOL
+**SIMBOLO
+ID_SIMBOL_0    [_Toolbar("SIMBOLO", _Top, _Show, 1, 0, 1)]
+ID_UserButton_38 [_Button("SIMBOLO 2", "S2.bmp", "ICON_16_BLANK")]^C^Cins2 
+ID_UserButton_42 [_Button("SIMBOLO 11", "S11.bmp", "ICON_16_BLANK")]^C^Cins11 
+ID_UserButton_39 [_Button("SIMBOLO Strelka", "Sstr.bmp", "ICON_16_BLANK")]^C^Cins6 
+ID_UserButton_40 [_Button("Punto trigonometrico", "Ptrig.bmp", "ICON_16_BLANK")]^C^Cp-trig 
+ID_UserButton_41 [_Button("Punto Fiduciale", "PF.bmp", "ICON_16_BLANK")]^C^Cfidu 
+
+**CHECK
+ID_check_0     [_Toolbar("check", _Left, _Show, 0, 0, 1)]
+ID_UserButton_43 [_Button("Dublirani", "dup.bmp", "ICON_16_BLANK")]^C^Ccheck-dup 
+ID_UserButton_44 [_Button("check-all", "all.bmp", "ICON_16_BLANK")]^C^Ccheck-all 
+ID_UserButton_56 [_Button("check-vis", "vis.bmp", "ICON_16_BLANK")]^C^Ccheck-vis 
+               [--]
+ID_UserButton_46 [_Button("topo-part", "tp.bmp", "ICON_16_BLANK")]^C^Ctopo-part 
+ID_UserButton_48 [_Button("topo-conf", "tc.bmp", "ICON_16_BLANK")]^C^Ctopo-conf 
+ID_UserButton_47 [_Button("topo-edi", "te.bmp", "ICON_16_BLANK")]^C^Ctopo-edi 
+               [--]
+ID_UserButton_49 [_Button("poly-all", "pp.bmp", "ICON_16_BLANK")]^C^C(poly-all) 
+               [--]
+ID_UserButton_53 [_Button("make-linea", "ml.bmp", "ICON_16_BLANK")]^C^Cmake-linea 
+ID_UserButton_54 [_Button("make-out", "mo.bmp", "ICON_16_BLANK")]^C^Cmake-out 
+ID_UserButton_52 [_Button("num-edi", "ne.bmp", "ICON_16_BLANK")]^C^Cnum-edi 
+ID_UserButton_55 [_Button("cxf-out", "cxf.bmp", "ICON_16_BLANK")]^C^Ccxf-out 
+ID_UserButton_65 [_Button("IZTRIVA POLIGONI", "del-pol.bmp", "ICON_16_BLANK")]^C^C(del-poligon) 
+
+**TOOLBAR3
+**MOZAIKA
+ID_Toolbar3_0  [_Toolbar("Mozaika", _Left, _Show, 0, 1, 1)]
+ID_UserButton_3 [_Button("Mozaika", "moz.bmp", "ICON_16_BLANK")]^C^Cmoz-map 
+               [--]
+ID_UserButton_4 [_Button("White", "white.bmp", "ICON_16_BLANK")]^C^Cco-all 
+ID_UserButton_5 [_Button("Color - Bylayer", "byl.bmp", "ICON_16_BLANK")]^C^Cco-byl 
+               [--]
+ID_UserButton_6 [_Button("LOCK", "lo.bmp", "ICON_16_BLANK")]^C^Clo-all 
+ID_UserButton_7 [_Button("Unlock", "unlock.bmp", "ICON_16_BLANK")]^C^Cunlo-all 
+               [--]
+ID_UserButton_8 [_Button("Freeze - Mozaika", "fm.bmp", "ICON_16_BLANK")]^C^Cf-all 
+ID_UserButton_63 [_Button("Set Map", "setmap.bmp", "ICON_16_BLANK")]^C^C(set-map) 
+ID_UserButton_64 [_Button("MOZAIKA ZA RABOTA", "Wo.bmp", "ICON_16_BLANK")]^C^Cmoz-work 
+ID_UserButton_66 [_Button("TOPOLOGIA MOZAIKI", "topo-moz.bmp", "ICON_16_BLANK")]^C^Ccheck-moz-topo
+
+
+***ACCELERATORS
+ID_OsnapEndp   [INTERNAL+"F2"]
+ID_OsnapNear   [INTERNAL+"F4"]
+ID_ZoomWindo   [INTERNAL+"F7"]
+ID_ZoomPrevi   [INTERNAL+"F8"]
+ID_ZoomOut     [INTERNAL+"F11"]
+ID_ZoomIn      [INTERNAL+"F12"]
+ID_OsnapInse   [INTERNAL+"F3"]
+ID_Matchprop   [INTERNAL+"F5"]
+ID_UserButton_7 [TOOLBAR+"F9"]
+
+***HELPSTRINGS
+ID_USERBUTTON_5 [User Defined Button]
+ID_USERBUTTON_6 [User Defined Button]
+ID_USERBUTTON_60 [User Defined Button]
+ID_USERBUTTON_7 [User Defined Button]
+ID_USERBUTTON_50 [User Defined Button]
+ID_USERBUTTON_61 [User Defined Button]
+AECID_IVMERGE  [Merges vector into an image: IVMERGE]
+ID_USERBUTTON_8 [User Defined Button]
+ID_USERFLYOUT_0 [User Defined Flyout]
+ID_USERBUTTON_40 [triagalnik i tekst]
+ID_USERBUTTON_51 [User Defined Button]
+ID_USERBUTTON_62 [INS-LA]
+AECID_IEXPORT  [Exports an image as another name or format: IEXPORT]
+ID_USERBUTTON_9 [User Defined Button]
+ID_USERFLYOUT_1 [User Defined Flyout]
+ID_USERBUTTON_30 [L11]
+ID_USERBUTTON_41 [Punto Fiduciale]
+ID_USERBUTTON_52 [User Defined Button]
+ID_USERBUTTON_63 [User Defined Button]
+ID_USERBUTTON_20 [Postavi S]
+ID_USERBUTTON_31 [L29]
+ID_USERBUTTON_42 [po limiti comune]
+ID_USERBUTTON_53 [User Defined Button]
+ID_USERBUTTON_64 [MOZAIKA ZA RABOTA]
+ID_USERBUTTON_10 [User Defined Button]
+ID_USERBUTTON_21 [Number Chiesa]
+ID_USERBUTTON_32 [L33]
+ID_USERBUTTON_43 [User Defined Button]
+ID_USERBUTTON_54 [User Defined Button]
+ID_USERBUTTON_65 [IZTRIVA POLIGONI]
+ID_USERBUTTON_66 [User Defined Button]
+ID_USERBUTTON_33 [Testo Strada]
+ID_USERBUTTON_11 [User Defined Button]
+ID_USERBUTTON_22 [Number Part -multiple]
+ID_USERFLYOUT_4 [User Defined Flyout]
+ID_USERBUTTON_44 [User Defined Button]
+ID_USERBUTTON_55 [User Defined Button]
+ID_USERBUTTON_34 [Testo Acqua]
+ID_USERBUTTON_12 [25]
+ID_USERBUTTON_23 [Number Part - single]
+ID_USERFLYOUT_5 [User Defined Flyout]
+ID_USERBUTTON_45 [User Defined Button]
+ID_USERBUTTON_56 [User Defined Button]
+ID_USERBUTTON_35 [User Defined Button]
+ID_USERBUTTON_13 [5]
+ID_USERBUTTON_24 [Number STRADA]
+ID_USERBUTTON_46 [User Defined Button]
+ID_USERBUTTON_57 [User Defined Button]
+ID_USERBUTTON_36 [Testo Foglio, Comune]
+ID_USERBUTTON_14 [10]
+ID_USERBUTTON_25 [Number ACQUA]
+ID_USERBUTTON_47 [User Defined Button]
+ID_USERBUTTON_58 [User Defined Button]
+ID_USERBUTTON_37 [User Defined Button]
+AECID_IINSERT  [Inserts image(s) into the drawing: IINSERT]
+ID_USERBUTTON_15 [User Defined Button]
+ID_USERBUTTON_26 [Number Confine]
+ID_USERBUTTON_48 [User Defined Button]
+ID_USERBUTTON_59 [User Defined Button]
+AECID_IDISPLACE [Moves an image by the desired offset: IDISPLACE]
+ID_USERBUTTON_0 [User Defined Button]
+ID_USERBUTTON_16 [PART, EDI, CONFINE]
+ID_USERBUTTON_27 [L1]
+ID_USERBUTTON_38 [SIMBOLO 2]
+ID_USERBUTTON_49 [User Defined Button]
+ID_USERBUTTON_1 [User Defined Button]
+ID_USERBUTTON_17 [Granitsa na kartata]
+ID_USERBUTTON_28 [L5]
+ID_USERBUTTON_39 [Strelka na reka]
+AECID_IRSHEET  [Rubbersheets an image: IRSHEET]
+ID_USERBUTTON_2 [User Defined Button]
+ID_USERBUTTON_18 [Chertae kashta s pravi ygli]
+ID_USERBUTTON_29 [L6]
+ID_USERBUTTON_3 [User Defined Button]
+ID_USERBUTTON_19 [LINEA-P]
+ID_USERBUTTON_4 [User Defined Button]
+
+//
+//      End of AutoCAD menu file - C:\cat\source\cat.mns
+//
+
